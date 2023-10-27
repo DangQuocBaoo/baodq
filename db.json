@@ -267,14 +267,14 @@
   ],
   "address": [
     {
-      id: 0,
-      homnumber: '121, Clear Water Bay Road',
-      street: 'Clear Water Bay, Kowloon',
-      city: 'HONG KONG',
-      tel: '+852 1234 5678',
-      fax: '+852 8765 4321',
-      email: 'confusion@food.net',
-      featured: true,
+     "id": 0,
+      "homnumber": '121, Clear Water Bay Road',
+      "street": 'Clear Water Bay, Kowloon',
+      "city": 'HONG KONG',
+      "tel": '+852 1234 5678',
+      "fax": '+852 8765 4321',
+      "email": 'confusion@food.net',
+      "featured": true,
       }
   ]
 }
